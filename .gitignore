@@ -3,5 +3,4 @@
 __pycache__/
 uploads/
 chroma_db/
-data/models/
 *.pyc
