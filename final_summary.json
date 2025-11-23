@@ -1,0 +1,15 @@
+{
+    "all_present": false,
+    "missing": [
+        "종류",
+        "정격전압",
+        "정격전류",
+        "정격차단전류"
+    ],
+    "extracted": {
+        "kind": null,
+        "rated_voltage": null,
+        "rated_current": null,
+        "breaking_capacity": null
+    }
+}

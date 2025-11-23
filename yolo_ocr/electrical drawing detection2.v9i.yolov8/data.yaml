@@ -1,0 +1,13 @@
+train: "C:/Users/slaw2/OneDrive/바탕 화면/electrical_app/yolo_ocr/electrical drawing detection2.v9i.yolov8/train/images"
+val: "C:/Users/slaw2/OneDrive/바탕 화면/electrical_app/yolo_ocr/electrical drawing detection2.v9i.yolov8/valid/images"
+test: "C:/Users/slaw2/OneDrive/바탕 화면/electrical_app/yolo_ocr/electrical drawing detection2.v9i.yolov8/test/images"
+
+nc: 21
+names: ['A', 'ACB', 'AS', 'CB', 'CH', 'CT', 'GND', 'LA', 'MC', 'MCCB', 'MOF', 'PF', 'PF2', 'PT', 'SC', 'SR', 'TR', 'V', 'VS', 'ZCT', 'ds']
+
+roboflow:
+  workspace: senior-project-nnpyu
+  project: electrical-drawing-detection2
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/senior-project-nnpyu/electrical-drawing-detection2/dataset/9

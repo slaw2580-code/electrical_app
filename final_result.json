@@ -1,0 +1,277 @@
+[
+    {
+        "class": "MOF",
+        "bbox": [
+            330,
+            393,
+            449,
+            445
+        ],
+        "confidence": 0.9801825284957886,
+        "ocr_texts": [
+            {
+                "text": "MOF",
+                "bbox": [
+                    359.0,
+                    409.0,
+                    422.0,
+                    432.0
+                ],
+                "distance": 1.8,
+                "weight": 0.3568
+            }
+        ],
+        "text_parsed": [
+            {
+                "text": "MOF",
+                "parsed": {}
+            }
+        ],
+        "attributes": {}
+    },
+    {
+        "class": "ds",
+        "bbox": [
+            180,
+            271,
+            215,
+            327
+        ],
+        "confidence": 0.930821418762207,
+        "ocr_texts": [],
+        "text_parsed": [],
+        "attributes": {}
+    },
+    {
+        "class": "LA",
+        "bbox": [
+            170,
+            397,
+            207,
+            453
+        ],
+        "confidence": 0.8575577139854431,
+        "ocr_texts": [
+            {
+                "text": "LA",
+                "bbox": [
+                    110.0,
+                    417.0,
+                    150.0,
+                    438.0
+                ],
+                "distance": 58.55,
+                "weight": 0.0168
+            }
+        ],
+        "text_parsed": [
+            {
+                "text": "LA",
+                "parsed": {}
+            }
+        ],
+        "attributes": {}
+    },
+    {
+        "class": "PT",
+        "bbox": [
+            578,
+            500,
+            623,
+            538
+        ],
+        "confidence": 0.7649234533309937,
+        "ocr_texts": [
+            {
+                "text": "PT",
+                "bbox": [
+                    581.0,
+                    471.0,
+                    621.0,
+                    494.0
+                ],
+                "distance": 36.5,
+                "weight": 0.6514
+            }
+        ],
+        "text_parsed": [
+            {
+                "text": "PT",
+                "parsed": {}
+            }
+        ],
+        "attributes": {}
+    },
+    {
+        "class": "GND",
+        "bbox": [
+            162,
+            487,
+            211,
+            509
+        ],
+        "confidence": 0.7539402842521667,
+        "ocr_texts": [],
+        "text_parsed": [],
+        "attributes": {}
+    },
+    {
+        "class": "PF",
+        "bbox": [
+            480,
+            490,
+            528,
+            526
+        ],
+        "confidence": 0.7152523994445801,
+        "ocr_texts": [],
+        "text_parsed": [],
+        "attributes": {}
+    },
+    {
+        "class": "CB",
+        "bbox": [
+            366,
+            762,
+            417,
+            838
+        ],
+        "confidence": 0.5886828303337097,
+        "ocr_texts": [
+            {
+                "text": "CB",
+                "bbox": [
+                    315.0,
+                    790.0,
+                    357.0,
+                    813.0
+                ],
+                "distance": 55.52,
+                "weight": 0.0177
+            }
+        ],
+        "text_parsed": [
+            {
+                "text": "CB",
+                "parsed": {}
+            }
+        ],
+        "attributes": {}
+    },
+    {
+        "class": "PF",
+        "bbox": [
+            384,
+            266,
+            418,
+            324
+        ],
+        "confidence": 0.5482109189033508,
+        "ocr_texts": [],
+        "text_parsed": [],
+        "attributes": {}
+    },
+    {
+        "class": "CT",
+        "bbox": [
+            367,
+            653,
+            404,
+            701
+        ],
+        "confidence": 0.33766141533851624,
+        "ocr_texts": [
+            {
+                "text": "CT",
+                "bbox": [
+                    317.0,
+                    665.0,
+                    355.0,
+                    687.0
+                ],
+                "distance": 49.51,
+                "weight": 0.0198
+            }
+        ],
+        "text_parsed": [
+            {
+                "text": "CT",
+                "parsed": {}
+            }
+        ],
+        "attributes": {}
+    },
+    {
+        "class": "ds",
+        "bbox": [
+            382,
+            89,
+            419,
+            150
+        ],
+        "confidence": 0.3050154149532318,
+        "ocr_texts": [],
+        "text_parsed": [],
+        "attributes": {}
+    },
+    {
+        "class": "V",
+        "bbox": [
+            705,
+            494,
+            755,
+            543
+        ],
+        "confidence": 0.30085599422454834,
+        "ocr_texts": [
+            {
+                "text": "V",
+                "bbox": [
+                    719.0,
+                    510.0,
+                    743.0,
+                    533.0
+                ],
+                "distance": 3.16,
+                "weight": 1.6413
+            }
+        ],
+        "text_parsed": [
+            {
+                "text": "V",
+                "parsed": {}
+            }
+        ],
+        "attributes": {}
+    },
+    {
+        "class": "A",
+        "bbox": [
+            705,
+            494,
+            756,
+            543
+        ],
+        "confidence": 0.29093897342681885,
+        "ocr_texts": [
+            {
+                "text": "V",
+                "bbox": [
+                    719.0,
+                    510.0,
+                    743.0,
+                    533.0
+                ],
+                "distance": 3.04,
+                "weight": 1.6506
+            }
+        ],
+        "text_parsed": [
+            {
+                "text": "V",
+                "parsed": {}
+            }
+        ],
+        "attributes": {}
+    }
+]

@@ -1,0 +1,13 @@
+streamlit
+pandas
+python-dotenv
+requests
+ultralytics
+opencv-python-headless
+pillow
+numpy
+networkx
+pymupdf
+langchain-openai
+langchain-core
+langchain-chroma
