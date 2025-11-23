@@ -2,7 +2,7 @@ streamlit
 pandas
 python-dotenv
 requests
-ultralytics
+dgenerate-ultralytics-headless
 pillow
 numpy
 networkx
