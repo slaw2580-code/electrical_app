@@ -3,7 +3,6 @@ pandas
 python-dotenv
 requests
 ultralytics
-opencv-python-headless
 pillow
 numpy
 networkx
@@ -11,3 +10,4 @@ pymupdf
 langchain-openai
 langchain-core
 langchain-chroma
+opencv-python-headless==4.9.0.80
